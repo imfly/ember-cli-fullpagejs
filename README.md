@@ -1,6 +1,6 @@
-# Ember-cli-full-pagejs
+# Ember-cli-fullPagejs
 
-This README outlines the details of collaborating on this Ember addon.
+这是对 [fullPage.js](https://github.com/alvarotrigo/fullPage.js) 的封装，实现非常酷炫的页面效果。
 
 ## Installation
 
