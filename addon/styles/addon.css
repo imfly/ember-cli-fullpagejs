@@ -267,3 +267,24 @@ p{
  			right: 149px;
  			top: 9px;
  		}
+
+    /* Fixed header and footer.
+  	* --------------------------------------- */
+  	#header, #footer{
+  		position:fixed;
+  		height: 50px;
+  		display:block;
+  		width: 100%;
+  		background: #333;
+  		z-index:9;
+  		text-align:center;
+  		color: #f2f2f2;
+  		padding: 20px 0 0 0;
+  	}
+
+  	#header{
+  		top:0px;
+  	}
+  	#footer{
+  		bottom:0px;
+  	}

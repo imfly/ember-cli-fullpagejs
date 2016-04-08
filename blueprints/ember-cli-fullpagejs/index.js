@@ -1,6 +1,6 @@
 /*jshint node:true*/
 module.exports = {
-  description: ''
+  description: 'ember-cli-fullPagejs'
 
   // locals: function(options) {
   //   // Return custom template variables here.
