@@ -4,6 +4,27 @@
 
 ## Installation
 
+If you are using Ember CLI 0.2.3 or higher, just run within your project directory:
+
+```bash
+ember install ember-cli-fullPagejs --save-dev
+```
+
+If your Ember CLI version is greater than 0.1.5 and less than 0.2.3, run the following within your project directory:
+
+```bash
+ember install:addon ember-cli-fullPagejs
+```
+
+When your Ember CLI version is below 0.1.5, please run within your project directory:
+
+```bash
+npm install --save-dev ember-cli-fullPagejs
+ember generate bootstrap-datepicker
+```
+
+## Usage
+
 * `git clone` this repository
 * `npm install`
 * `bower install`
