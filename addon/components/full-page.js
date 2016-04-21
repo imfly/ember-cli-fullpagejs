@@ -1,6 +1,8 @@
 import Ember from 'ember';
 
 export default Ember.Component.extend({
+  tagName: 'div',
+  classNames: ['fullpage-wrapper'],
 
   didRender() {
     Ember.run.scheduleOnce('afterRender', this, function() {
