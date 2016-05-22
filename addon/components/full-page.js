@@ -8,7 +8,7 @@ export default Ember.Component.extend({
     Ember.run.scheduleOnce('afterRender', this, function() {
       Ember.$("#fullpage").fullpage({
         sectionsColor: ['#4f7f9b', '#4BBFC3', '#1bbc9b', 'whitesmoke'],
-        // anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage'],
+        anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage'],
         // menu: '#menu',
         scrollingSpeed: 600,
         autoScrolling: false,

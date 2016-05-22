@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-fullPagejs",
-  "version": "0.0.1",
-  "description": "An ember-cli addons to wrapper the fullPage.js.",
+  "version": "0.0.2",
+  "description": "An ember-cli addon to wrap the fullPage.js.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -39,7 +39,9 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
+    "ember",
     "ember-addon",
+    "ember-cli",
     "fullpage.js",
     "ebookcoin",
     "ebookchain"
