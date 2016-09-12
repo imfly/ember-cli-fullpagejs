@@ -1,4 +1,4 @@
-# Ember-cli-fullPagejs
+# Ember-cli-fullpagejs
 
 这是对 [fullPage.js](https://github.com/alvarotrigo/fullPage.js) 的封装，实现非常酷炫的页面效果。
 
@@ -7,19 +7,19 @@
 If you are using Ember CLI 0.2.3 or higher, just run within your project directory:
 
 ```bash
-ember install ember-cli-fullPagejs --save-dev
+ember install ember-cli-fullpagejs --save-dev
 ```
 
 If your Ember CLI version is greater than 0.1.5 and less than 0.2.3, run the following within your project directory:
 
 ```bash
-ember install:addon ember-cli-fullPagejs
+ember install:addon ember-cli-fullpagejs
 ```
 
 When your Ember CLI version is below 0.1.5, please run within your project directory:
 
 ```bash
-npm install --save-dev ember-cli-fullPagejs
+npm install --save-dev ember-cli-fullpagejs
 ember generate bootstrap-datepicker
 ```
 

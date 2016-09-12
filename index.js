@@ -4,7 +4,7 @@
 var path = require('path');
 
 module.exports = {
-  name: 'ember-cli-full-pagejs',
+  name: 'ember-cli-fullpagejs',
 
   included: function included(app) {
     this._super.included(app);

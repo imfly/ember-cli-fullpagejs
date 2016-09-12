@@ -1,9 +1,9 @@
 /*jshint node:true*/
 module.exports = {
-  description: 'ember-cli-fullPagejs',
+  description: 'ember-cli-fullpagejs',
 
   normalizeEntityName: function() {
-    // allows us to run ember -g ember-cli-fullPagejs and not blow up
+    // allows us to run ember -g ember-cli-fullpagejs and not blow up
     // because ember cli normally expects the format
     // ember generate <entitiyName> <blueprint>
   },

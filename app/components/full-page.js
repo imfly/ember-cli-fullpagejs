@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-full-pagejs/components/full-page';
+export { default } from 'ember-cli-fullpagejs/components/full-page';
