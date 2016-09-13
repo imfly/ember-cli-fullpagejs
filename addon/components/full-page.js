@@ -12,7 +12,6 @@ function clone(from, to) {
 }
 
 export default Ember.Component.extend({
-  tagName: 'div',
   // https://github.com/alvarotrigo/fullPage.js#options
   options: {
     //Navigation
