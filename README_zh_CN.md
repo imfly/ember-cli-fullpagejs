@@ -1,7 +1,6 @@
 # Ember-cli-fullpagejs
 
 ![intro.png](./tests/dummy/public/imgs/intro.png)
-
 [![npm version](https://badge.fury.io/js/ember-cli-fullpagejs.svg)](https://badge.fury.io/js/ember-cli-fullpagejs)
 [![Build Status](https://travis-ci.org/imfly/ember-cli-fullpagejs.png?branch=master)](https://travis-ci.org/imfly/ember-cli-fullpagejs)
 [![Dependencies Status](https://david-dm.org/imfly/ember-cli-fullpagejs.svg)](https://david-dm.org/imfly/ember-cli-fullpagejs)
