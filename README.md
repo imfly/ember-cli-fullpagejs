@@ -2,6 +2,11 @@
 
 ![intro.png](./tests/dummy/public/imgs/intro.png)
 
+[![npm version](https://badge.fury.io/js/ember-cli-fullpagejs.svg)](https://badge.fury.io/js/ember-cli-fullpagejs)
+[![Build Status](https://travis-ci.org/imfly/ember-cli-fullpagejs.png?branch=master)](https://travis-ci.org/imfly/ember-cli-fullpagejs)
+[![Dependencies Status](https://david-dm.org/imfly/ember-cli-fullpagejs.svg)](https://david-dm.org/imfly/ember-cli-fullpagejs)
+[![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+
 这是对 [fullPage.js](https://github.com/alvarotrigo/fullPage.js) 的封装，实现非常酷炫的翻页效果。
 
 * [demo](http://ebookchain.org)
