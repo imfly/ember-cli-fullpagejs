@@ -1,5 +1,7 @@
 # Ember-cli-fullpagejs
 
+![intro.png](./tests/dummy/public/imgs/intro.png)
+
 这是对 [fullPage.js](https://github.com/alvarotrigo/fullPage.js) 的封装，实现非常酷炫的翻页效果。
 
 * [demo](http://ebookchain.org)
@@ -31,7 +33,7 @@ ember generate ember-cli-fullpagejs
 
 You only use the tag `{{#full-page}}{{/full-page}}` instead of `<div id="fullpage"></div>` in your template files, others are the same as using fullPage.js.
 
-#### Required HTML structure
+#### （1）**Required HTML structure**
 
 ```
 {{#full-page}}
@@ -53,15 +55,17 @@ In order to create a landscape slider within a section, each slide will be defin
 </div>
 ```
 
-#### Options
+#### （2）**Options**
 
 You can add an option in the tag, ex:
 
 ```html
-{{#full-page autoScrolling='true' navigation='true' }}
+{{#full-page autoScrolling='true' navigation='true' anchors='["firstPage", "secondPage"]' }}
 
 {{/full-page}}
 ```
+
+**Note**: The value of the option has to be wrapped by Single quotation mark `'` instead of Double quotation marks `"`.
 
 All of the options are the following, you can [read more](https://github.com/alvarotrigo/fullPage.js#options):
 
