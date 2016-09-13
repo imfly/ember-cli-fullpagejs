@@ -3,7 +3,7 @@ import Ember from 'ember';
 function clone(from, to) {
   for (var key in to) {
     if (from.hasOwnProperty(key)) {
-      var value = Ember.$.parseJSON(from[key]) // Please use Standard JSON, and text wrapped by ''
+      var value = Ember.$.parseJSON(from[key]); // Please use Standard JSON, and text wrapped by ''
       to[key] = value;
     }
   }
