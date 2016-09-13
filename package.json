@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-fullpagejs",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "An ember-cli addon to wrap the fullPage.js.",
   "directories": {
     "doc": "doc",
